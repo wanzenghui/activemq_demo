@@ -104,15 +104,11 @@ Topic的生产者消费者，就是改成了Topic就可以了
 
 
 
-拷贝stmTrade，然后ctrl+shift+r搜索
-
-![image-20200723183522599](/image-20200723183522599.png)
 
 
+**远程debug**：
 
 远程配置：去查看启动脚本
-
-192.168.1.75 /appool/FXQ/lc_inquiry/server.sh
 
 vi 查看这个启动脚本
 
